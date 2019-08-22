@@ -253,12 +253,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_fraction_test_FractionTest_test_sub - 2019.08.20 at 14h 25m 43s.xml">
-      <configuration name="Unittests for fraction_test.FractionTest.test_sub" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_fraction_test_FractionTest_test_add - 2019.08.20 at 14h 29m 02s.xml">
-      <configuration name="Unittests for fraction_test.FractionTest.test_add" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_fraction_test_FractionTest_test_sub - 2019.08.20 at 14h 30m 13s.xml">
       <configuration name="Unittests for fraction_test.FractionTest.test_sub" configurationId="tests" />
     </history-entry>
@@ -282,6 +276,12 @@
     </history-entry>
     <history-entry file="Unittests_for_fraction_test_FractionTest_test_eq - 2019.08.21 at 13h 07m 24s.xml">
       <configuration name="Unittests for fraction_test.FractionTest.test_eq" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_fraction_test_FractionTest_test_init - 2019.08.22 at 09h 14m 25s.xml">
+      <configuration name="Unittests for fraction_test.FractionTest.test_init" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_fraction_test_FractionTest_test_init - 2019.08.22 at 09h 14m 56s.xml">
+      <configuration name="Unittests for fraction_test.FractionTest.test_init" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
